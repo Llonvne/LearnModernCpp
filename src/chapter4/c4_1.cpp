@@ -1,6 +1,6 @@
 //
 // Created by 华邵钶 on 2023/1/13.
-//
+// decltype
 #include "bits/stdc++.h"
 using namespace std;
 namespace typeofAndTypeid {

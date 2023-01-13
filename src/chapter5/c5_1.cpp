@@ -1,6 +1,7 @@
 //
 // Created by 华邵钶 on 2023/1/13.
 //
+// 函数返回类型
 #include "bits/stdc++.h"
 using namespace std;
 auto foo() -> int {

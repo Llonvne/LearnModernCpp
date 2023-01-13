@@ -3,4 +3,4 @@ project(LearnModernCpp)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(c3_3 src/chapter3/c3_3.cpp)
+add_executable(c3_3 src/chapter3/c3_3.cpp ../../../../../../../c6_1.cpp)
