@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="main" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnModernCpp" TARGET_NAME="c7_2.cpp" CONFIG_NAME="main">
+  <configuration default="false" name="main" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnModernCpp" TARGET_NAME="c8_1.cpp" CONFIG_NAME="main">
     <option name="compilerOptions" value="-std=c++2b" />
-    <option name="sourceFile" value="$PROJECT_DIR$/src/chapter7/c7_2.cpp" />
+    <option name="sourceFile" value="$PROJECT_DIR$/src/chapter8/c8_1.cpp" />
     <method v="2">
       <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
     </method>
